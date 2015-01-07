@@ -43,7 +43,7 @@
     <gap:plugin name="org.apache.cordova.splashscreen" />
     <gap:plugin name="org.apache.cordova.vibration" />
     
-    <gap:plugin name="com.phonegap.plugins.mapkit" >
+    <gap:plugin name="com.phonegap.plugins.mapkit"  source="plugins.cordova.io"  >
   		<param name="APIKey" value="AIzaSyAOS5wLRjC7xYjrdAscuoSPV7JxBwGRXmE" />
     </gap:plugin>
     
